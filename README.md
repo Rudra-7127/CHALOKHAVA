@@ -73,7 +73,7 @@ Just clone the repo and run it on the browser
 ### Option 1 — Open directly
 ```bash
 # Clone the repo
-git clone https://github.com/Rudra-7127/PROJECT1.git
+git clone https://github.com/RudraRabadiya/PROJECT1.git
 
 # Open in browser
 cd PROJECT1
@@ -114,7 +114,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 <div align="center">
 
-Made by **[Rudra J Rabadiya](https://github.com/Rudra-7127)**
+Made by **[Rudra J Rabadiya](https://github.com/RudraRabadiya)**
 
 [![Instagram](https://img.shields.io/badge/%40rudra.rabadiya.07-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rudra.rabadiya.07/)
 
